@@ -1,0 +1,9 @@
+*.pptx
+*.zip
+*.exe
+*.log
+node_modules/
+__pycache__/
+.env
+.env*
+credentials.json

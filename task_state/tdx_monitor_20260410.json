@@ -1,0 +1,11 @@
+{
+  "task_id": "tdx_monitor_20260410",
+  "status": "running",
+  "pid": 2500,
+  "last_signal": "2026-04-14T10:35:07",
+  "recovery_cmd": "C:\\tdx_monitor\\start.bat",
+  "work_dir": "C:\\tdx_monitor",
+  "version": "v3",
+  "config_hash": "detect_v3_20260414",
+  "note": "v3版本: 实际箭头图像检测+窗口标题+位置去重+交易时段过滤+30s间隔"
+}

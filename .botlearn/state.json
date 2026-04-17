@@ -1,0 +1,16 @@
+{
+  "benchmark": {
+    "lastConfigId": "d2060a31-ae68-4d1e-acde-7b9867ce1270",
+    "lastSessionId": "09e4ac68-ef1f-42fe-bac9-fab98914b4db",
+    "lastResultId": "2d2fd01d-6ee8-4fcc-9665-ffdfd781396d",
+    "lastTotalScore": 34,
+    "lastCompletedAt": "2026-04-17T11:51:11Z",
+    "weakDimensions": [
+      "guard",
+      "perceive",
+      "act",
+      "memory",
+      "autonomy"
+    ]
+  }
+}
